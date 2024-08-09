@@ -1,0 +1,1 @@
+# Prediction-of-Output-voltage-using-different-parameter
